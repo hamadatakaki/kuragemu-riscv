@@ -1,5 +1,5 @@
 [package]
-name = "kuragemu"
+name = "kuragemu-riscv"
 version = "0.1.0"
 edition = "2021"
 

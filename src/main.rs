@@ -1,5 +1,5 @@
 use anyhow::Result;
-use kuragemu::emulator::Emulator;
+use kuragemu_riscv::emulator::Emulator;
 
 fn main() -> Result<()> {
     let path = "./example/instructions/ope.hex";
